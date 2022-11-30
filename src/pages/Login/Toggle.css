@@ -1,0 +1,53 @@
+.Toggle .Toggle__togglea {
+  /* Rectangle 11 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 162.01px;
+height: 48.54px;
+left: 259.42px;
+top: 325.55px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+background: #FFFFFF;
+border: 1px solid #DEDEDE;
+border-radius: 5px;
+/* position middle idk */
+font-family: 'Poppins';
+font-style: normal;
+
+font-weight: 500;
+font-size: 15px;
+line-height: 44px;
+/* identical to box height, or 293% */
+
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Toggle .Toggle__toggleb {
+  /* Rectangle 12 */
+box-sizing: border-box;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 2.27%;
+
+background: #FFFFFF;
+border: 1px solid #DEDEDE;
+border-radius: 5px;
+
+position: absolute;
+width: 162.01px;
+height: 48.54px; 
+left: 525.21px; /*why it doesn't go to the right side*/
+top: 325.55px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
